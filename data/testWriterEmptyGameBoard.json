@@ -1,0 +1,6 @@
+{
+    "gameEnemies": [],
+    "coins": 0,
+    "lastMoveWasAttack": false,
+    "gamePlayers": []
+}

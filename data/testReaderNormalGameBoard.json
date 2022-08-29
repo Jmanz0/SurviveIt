@@ -1,0 +1,31 @@
+{
+    "gameEnemies": [
+        {
+            "damage": 75,
+            "movesLeftToAttack": 3,
+            "health": 40
+        },
+        {
+            "damage": 75,
+            "movesLeftToAttack": 2,
+            "health": 120
+        },
+        {
+            "damage": 75,
+            "movesLeftToAttack": 1,
+            "health": 120
+        }
+    ],
+    "coins": 80,
+    "lastMoveWasAttack": true,
+    "gamePlayers": [
+        {
+            "damage": 100,
+            "health": 200
+        },
+        {
+            "damage": 100,
+            "health": 1250
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "gameEnemies": [
+        {
+            "damage": 75,
+            "movesLeftToAttack": 2,
+            "health": 20
+        },
+        {
+            "damage": 75,
+            "movesLeftToAttack": 3,
+            "health": 120
+        },
+        {
+            "damage": 75,
+            "movesLeftToAttack": 1,
+            "health": 120
+        },
+        {
+            "damage": 75,
+            "movesLeftToAttack": 1,
+            "health": 120
+        },
+        {
+            "damage": 75,
+            "movesLeftToAttack": 2,
+            "health": 120
+        },
+        {
+            "damage": 75,
+            "movesLeftToAttack": 3,
+            "health": 120
+        }
+    ],
+    "coins": 20,
+    "lastMoveWasAttack": false,
+    "gamePlayers": [
+        {
+            "damage": 100,
+            "health": 575
+        },
+        {
+            "damage": 100,
+            "health": 1250
+        }
+    ]
+}

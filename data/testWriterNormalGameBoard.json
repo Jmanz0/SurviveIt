@@ -1,0 +1,13 @@
+{
+    "gameEnemies": [{
+        "damage": 60,
+        "movesLeftToAttack": 2,
+        "health": 123
+    }],
+    "coins": 20,
+    "lastMoveWasAttack": true,
+    "gamePlayers": [{
+        "damage": 120,
+        "health": 376
+    }]
+}
