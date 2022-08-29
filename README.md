@@ -49,3 +49,4 @@ displays the eventLog when closing the game. I would also make a design pattern 
 include activities such as defeating an enemy, and buying a player. This would make the program easier to follow and reduce coupling .
 
 # The-Video-Game
+# The-Video-Game
