@@ -47,7 +47,3 @@ If I had more time to refactor, I would create an abstract class for my UI for G
 because GameGUI and StartEndGameGUI has many elements similar to each other. This would include the window listener that 
 displays the eventLog when closing the game. I would also make a design pattern (observer design pattern) to notify when events changes. This would
 include activities such as defeating an enemy, and buying a player. This would make the program easier to follow and reduce coupling .
-
-# The-Video-Game
-# The-Video-Game
-# The-Video-Game
