@@ -1,4 +1,4 @@
-# The Video Game
+# SurviveIt
 **What will the application do?**  \
 The application is a luck based game where the user will
 control a player to destroy a set of enemies. 
